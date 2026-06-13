@@ -1,4 +1,4 @@
-# Task 4 - Complex Form Validation & Dynamic DOM Manipulation
+# Complex Form Validation & Dynamic DOM Manipulation
 Author: Kiruthika
 
 Objective:
